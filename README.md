@@ -1,2 +1,2 @@
 # Spotify-Clone
-This is Spotify Clone 
+This is Spotify Clone .
